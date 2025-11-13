@@ -1,5 +1,8 @@
 # Customer Support Call Centre Performance Dashboard
 
+<img width="1449" height="829" alt="image" src="https://github.com/user-attachments/assets/55d25e41-7196-4e90-99be-72f72cb3116c" />
+
+
 This project analyzes customer support call data to evaluate performance, response efficiency, and customer sentiment across multiple channels and regions.
 
 Using Excel for data cleaning and Power BI for visualization, I built an interactive dashboard showcasing key metrics such as Total Calls, Total Call Duration, Average Call Duration, and Response Time (%).
@@ -28,6 +31,7 @@ With growing call volumes and multiple support channels, delays in response time
 By visualizing call data, management can quickly identify inefficiencies, allocate resources strategically, and implement training or process improvements where needed.
 
 **Insights**
+
 When I began exploring the data, one thing was immediately clear — customers were reaching out a lot. Over 33,000 calls were handled across different channels, yet the story those numbers told went far beyond volume.
 
 The Call Centre channel emerged as the busiest, accounting for 32% of all interactions, followed closely by Chatbot (25%) and Email (22%). Interestingly, the Web channel (19%) lagged behind;a signal that many customers still preferred human support or instant chat assistance over self-service options.
