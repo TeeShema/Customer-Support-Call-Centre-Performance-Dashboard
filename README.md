@@ -32,7 +32,7 @@ By visualizing call data, management can quickly identify inefficiencies, alloca
 
 **Insights**
 
-When I began exploring the data, one thing was immediately clear — customers were reaching out a lot. Over 33,000 calls were handled across different channels, yet the story those numbers told went far beyond volume.
+When I began exploring the data, one thing was immediately clear: customers were reaching out a lot. Over 33,000 calls were handled across different channels, yet the story those numbers told went far beyond volume.
 
 The Call Centre channel emerged as the busiest, accounting for 32% of all interactions, followed closely by Chatbot (25%) and Email (22%). Interestingly, the Web channel (19%) lagged behind;a signal that many customers still preferred human support or instant chat assistance over self-service options.
 
