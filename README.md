@@ -7,7 +7,7 @@ This project analyzes customer support call data to evaluate performance, respon
 
 Using Excel for data cleaning and Power BI for visualization, I built an interactive dashboard showcasing key metrics such as Total Calls, Total Call Duration, Average Call Duration, and Response Time (%).
 
-The dashboard highlights insights like top-performing call centres, most common reasons for contact (mainly billing questions), and overall sentiment trends — with a high share of negative and neutral feedback.
+The dashboard highlights insights like top-performing call centres, most common reasons for contact (mainly billing questions), and overall sentiment trends with a high share of negative and neutral feedback.
 
 This project demonstrates ability to transform operational data into actionable insights, helping organizations improve service efficiency, resource allocation, and customer satisfaction.
 
@@ -37,17 +37,17 @@ When I began exploring the data, one thing was immediately clear — customers w
 The Call Centre channel emerged as the busiest, accounting for 32% of all interactions, followed closely by Chatbot (25%) and Email (22%). Interestingly, the Web channel (19%) lagged behind;a signal that many customers still preferred human support or instant chat assistance over self-service options.
 
 But as I looked deeper, the challenge became clearer.
-Despite the high call volumes, sentiment analysis revealed a worrying trend — negative and neutral sentiments dominated, while positive feedback was significantly lower. This meant many customers weren’t leaving their interactions feeling satisfied.
+Despite the high call volumes, sentiment analysis revealed a worrying trend; negative and neutral sentiments dominated, while positive feedback was significantly lower. This meant many customers were not leaving their interactions feeling satisfied.
 
 Then came the why.
 The majority of calls (nearly 70%) were about billing issues. That single category dwarfed all others, showing that a large portion of the support team’s time was spent addressing payment or billing-related concerns.
 
 Geographically, Los Angeles and Baltimore stood out as the busiest call centres, handling a combined 25,000+ calls. These locations not only carried the heaviest workload but also showed slower response times compared to smaller centres — a clear indicator that demand wasn’t evenly distributed.
 
-Finally, when comparing performance metrics, average call duration hovered around 25 minutes, and response time was at 75% efficiency — decent, but with clear room for improvement.
+Finally, when comparing performance metrics, average call duration hovered around 25 minutes, and response time was at 75% efficiency whichis decent, but with clear room for improvement.
 
 Together, these insights painted a powerful story:
-Customers are reaching out most about billing issues, feeling frustrated, and waiting too long for responses — especially in high-volume locations.
+Customers are reaching out most about billing issues, feeling frustrated, and waiting too long for responses; especially in high-volume locations.
 
 The data pointed to an opportunity not just for operational optimization, but for rethinking the customer experience itself, starting with better billing processes, smarter channel management, and faster response systems.
 
